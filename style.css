@@ -1,3 +1,4 @@
+
 .contenedor{
     max-width: 80%;
     margin-left: auto;
@@ -69,3 +70,90 @@ margin-top:3rem;
 margin-bottom: 3rem;
 text-align: center;
 }
+
+.fw-300{
+    font-weight: 300; 
+    font-weight: bold;
+}
+
+.texto-centrado{
+    text-align: center;
+}
+
+.cambio-seccion{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.seccion-inferior{
+    display: flex;
+    justify-content: space-between;
+}
+
+.blog{
+    flex-basis: 60%;
+}
+
+.testimoniales{
+    flex-basis: calc(40% - 1rem);
+}
+
+.blog-elementos{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+}
+
+.blog-elementos img{
+    width: 40rem;
+}
+
+.texto-blog{
+    flex-basis: calc(60% - 2rem);
+    line-height: 3;
+}
+
+.texto-blog p{
+    line-height: 1.5;
+}
+
+h3{
+    margin-top: 1rem;
+    font-weight: 500;
+    font-weight: bold;
+}
+
+.precio{
+    text-decoration: none;
+    font-style: normal;
+    font-weight: normal;
+    font-weight: 700;
+}
+
+.negro{
+    font-weight: bold;
+}
+
+.boton_personalizado{
+    text-align: center;
+    text-decoration: none;
+    padding: 1rem;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: black;
+  }
+
+  .boton_personalizado2{
+    text-align: center;
+    text-decoration: none;
+    padding: 1rem;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: brown;
+  }
+
+
+  
