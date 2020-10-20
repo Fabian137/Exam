@@ -1,4 +1,7 @@
 
+body{
+    font-family: 'Lato', sans-serif;
+}
 .contenedor{
     max-width: 80%;
     margin-left: auto;
@@ -157,3 +160,27 @@ h3{
 
 
   
+/* Tercera parte (Fa) */
+h1{
+    text-align: center;
+}
+.acomodo{
+    margin-top: 3rem;
+    font-size: 14px;
+}
+.image{
+    width: 20rem;
+    flex-basis: calc(30%)
+}
+.part{
+    display: flex;
+}
+.text{
+    margin-left: 1.5rem;
+    line-height: 2.7;
+    flex-basis: calc(70%);
+}
+.text h2{
+    margin: 0;
+}
+/* Termino sho*/
