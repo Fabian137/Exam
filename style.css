@@ -162,12 +162,12 @@ h3{
 
   
 /* Tercera parte (Fa) */
-h1{
+.acomodo h2{
     text-align: center;
+    margin-bottom: 3rem;
 }
 .acomodo{
     margin-top: 3rem;
-    font-size: 14px;
 }
 .image{
     width: 20rem;
