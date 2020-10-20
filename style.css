@@ -146,6 +146,7 @@ h3{
     font-size: 20px;
     color: #ffffff;
     background-color: black;
+    width: 10rem;
   }
 
   .boton_personalizado2{
@@ -174,6 +175,7 @@ h1{
 }
 .part{
     display: flex;
+    margin-bottom: 3rem;
 }
 .text{
     margin-left: 1.5rem;
